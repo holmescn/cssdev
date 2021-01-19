@@ -1,0 +1,29 @@
+{
+  "name": "cssdev",
+  "version": "1.0.0",
+  "description": "A frontend css dev tools based on puppeteer and pixelmatch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holmescn/cssdev.git"
+  },
+  "keywords": [],
+  "author": "Holmes Conan <holmesconan@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holmescn/cssdev/issues"
+  },
+  "homepage": "https://github.com/holmescn/cssdev#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "pixelmatch": "^5.2.1"
+  }
+}
